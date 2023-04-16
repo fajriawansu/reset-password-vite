@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src",
+        "paths": {
+            "@/components/*": [
+                "components/*"
+            ]
+        },
+    },
+    "include": [
+        "src",
+        "**/*.ts",
+        "**/*.js",
+        "**/*.tsx",
+        "**/*.jsx"
+    ]
+}
